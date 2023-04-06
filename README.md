@@ -1,1 +1,1 @@
-! (https://i.ibb.co/vxhtYVh/aesthetic.png)
+! [plot] (https://i.ibb.co/vxhtYVh/aesthetic.png)
