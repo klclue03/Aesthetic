@@ -46,4 +46,9 @@ country_dict # Dictionary of countries you want the bot to react with a flag emo
 - Aesthetic is now running on your Discord server!
 
 ## Issues or Questions
-If you have any questions, contact me on Discord at positive#9872. If you have any issues, post them
+If you have any questions, contact me on Discord at positive#9872. If you have any issues, post them [here](https://github.com/klclue03/Aesthetic/issues). Or, you can submit a pull request. I may make a few patches or updates for this project, but plan for it to be finalized soon.
+
+**Other Information**:
+- Built with Python 3.9.1
+- IDE - Pycharm
+- License - Apache License 2.0 (See LICENSE.md)
